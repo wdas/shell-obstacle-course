@@ -1,12 +1,12 @@
-R = readme
+U = userguide
 
-readme: $(R).pdf
+userguide: $(U).pdf
 
-all : readme
+all : userguide
 
-$(R).pdf: *.tex
-	pdflatex $(R)
-	pdflatex $(R)
+$(U).pdf: *.tex
+	pdflatex $(U)
+	pdflatex $(U)
 
 clean:
-	rm -f *.aux $(R).log $(R).out $(R).pdf
+	rm -f *.aux $(U).log $(U).out $(U).pdf
