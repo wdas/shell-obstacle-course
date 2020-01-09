@@ -1,0 +1,16 @@
+Linear Shell Obstacle Course
+
+Copyright 2019 Disney Enterprises, Inc. All rights reserved.
+
+Redistribution and use of this linear shell obstacle course, with or without modification, are permitted provided that the following conditions are met:
+
+1.	The linear shell obstacle course or any part of it may only be used for research or software development (including benchmarking) purposes.
+
+2.	Redistributions of this linear shell obstacle course or any part of it must include the above copyright notice, this list of conditions and the following disclaimer.
+
+3.	The names “Disney”, “Walt Disney Pictures”, “Walt Disney Animation Studios” or the names of its contributors may NOT be used to promote or to imply endorsement, sponsorship, or affiliation with products developed or tested utilizing this scene description or benchmarking results obtained from this scene description, without prior written permission from Walt Disney Pictures.
+
+4.	Any publication leveraging the linear shell obstacle course or its derivatives must cite the following paper: “Nitsche’s Method for Variational Constrained Minimization Problems with Application to Membranes, Plates, and Shells” by J. Benzaken, J. A. Evans, S. McCormick, and R. Tamstorf (submitted to CMAME, 2019).
+
+Disclaimer:  THIS LINEAR SHELL OBSTACLE COURSE IS PROVIDED BY WALT DISNEY PICTURES “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL WALT DISNEY PICTURES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SCENE DESCRIPTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

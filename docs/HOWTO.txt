@@ -1,0 +1,1 @@
+With a proper installation of "pdflatex" and "make" the document about the linear shell obstacle course in this directory, i.e. readme.pdf, can be (re)built simply by running make. 
